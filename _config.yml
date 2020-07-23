@@ -52,4 +52,4 @@ collections:
     description: "Find all my articles, comment pieces and blog posts."
     #feature_text: |
     #  Welcome to my blog
-    feature_image: "https://picsum.photos/2560/600?image=866"
+    feature_image: "https://images.unsplash.com/photo-1505682634904-d7c8d95cdc50?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2250&q=80"
